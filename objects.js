@@ -1,4 +1,4 @@
-var playlist = {
+consult playlist = {
   Eagles : 'Already Gone',
   Prince: '1999',
   Kanye: "Gold Digger"
