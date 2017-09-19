@@ -3,8 +3,8 @@ var playlist = {
   Prince: '1999'
 }
 
-function updatePlayList(objectList, artistName, songTitle) {
-//  return Object.assign({}, objectList, { [artistName] : songTitle } )
+function updatePlayList(obj, artistName, songTitle) {
+  return Object.assign( {}, obj, { [artistName] : songTitle } )
 }
 //function removeFromPlaylist (playlist,artistName) {
 //
