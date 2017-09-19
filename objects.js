@@ -1,7 +1,5 @@
 var playlist = {
-  Eagles : 'Already Gone',
-  Prince: '1999',
-  Kanye: "Gold Digger"
+  Eagles : 'Already Gone'
 };
 
 function updatePlaylist(obj, artistName, songTitle) {
